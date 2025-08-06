@@ -14,6 +14,7 @@ Welcome to my GitHub! I'm an enthusiastic developer with a passion for AI, machi
   A mobile manipulator robot with autonomous navigation, simulated in Gazebo using ROS2 and Python.
 
 - [**Autocoder**](https://github.com/atheendre130505/autocoder)
+  A auto coder that uses gemini and qwen to generate and debug code.
 
  ## 📊 Data & NLP
 
