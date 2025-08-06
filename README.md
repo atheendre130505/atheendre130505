@@ -13,12 +13,16 @@ Welcome to my GitHub! I'm an enthusiastic developer with a passion for AI, machi
 - [**ROBOTICS-Mobile-Manipulator-Arm**](https://github.com/atheendre130505/ROBOTICS-Mobile-Manipulator-Arm)  
   A mobile manipulator robot with autonomous navigation, simulated in Gazebo using ROS2 and Python.
 
-- [**Websearch AI (Backend & Frontend)**](https://github.com/atheendre130505/Websearch_AI_backend) / [Frontend](https://github.com/atheendre130505/Websearch_AI_frontend)  
-  An AI-powered web search engine that scrapes and answers queries using LLM models. (Java/JavaScript)
+- [**Autocoder**](https://github.com/atheendre130505/autocoder)
 
-- [**FIFA Data Analysis**](https://github.com/atheendre130505/FIFA_data_analysis)  
-  Data science project analyzing FIFA player data for trends and insights. (Python, Data Analysis)
+ ## 📊 Data & NLP
 
+- [**Kaggle Introvert-Extrovert**](https://github.com/atheendre130505/Kaggle_introvert-extrovert)  
+  Data analysis project exploring personality types.
+
+- [**NLP**](https://github.com/atheendre130505/nlp)  
+  Natural language processing experiments in Python. 
+  
 ## 💡 Machine Learning & Reinforcement Learning
 
 - [**Deep Q-Learning Dinojump**](https://github.com/atheendre130505/Deep-Q-learning_dinojump)  
@@ -30,8 +34,6 @@ Welcome to my GitHub! I'm an enthusiastic developer with a passion for AI, machi
 - [**ML Models**](https://github.com/atheendre130505/ml_models)  
   Hand-coded implementations of classic and modern ML models: linear regression, neural networks, CNNs, RNNs, Transformers, and more.
 
-- [**Linear Algebra with Numpy**](https://github.com/atheendre130505/linear_algebra_Numpy)  
-  Solving practice problems using Python and Numpy.
 
 ## 🧪 Simulations & Algorithms
 
@@ -41,12 +43,8 @@ Welcome to my GitHub! I'm an enthusiastic developer with a passion for AI, machi
 - [**DSA**](https://github.com/atheendre130505/dsa)  
   Data structures and algorithms illustrated using Jupyter Notebooks.
 
-## 🌐 Web & JavaScript Projects
 
-- [**Notes Website**](https://github.com/atheendre130505/notes_website)  
-  A full-stack notes app built for a college project. (JavaScript)
-
-## 🤖 C & Systems Programming
+## 🤖 C & Systems Programming (to showcase C programming knowledge)
 
 - [**Pah-Tum**](https://github.com/atheendre130505/pah-tum)  
   A C-based tic-tac-toe style game vs. the computer.
@@ -59,13 +57,7 @@ Welcome to my GitHub! I'm an enthusiastic developer with a passion for AI, machi
 - [**First Contributions**](https://github.com/atheendre130505/first-contributions)  
   A guide/project to help beginners make their first open source contribution.
 
-## 📊 Data & NLP
 
-- [**Kaggle Introvert-Extrovert**](https://github.com/atheendre130505/Kaggle_introvert-extrovert)  
-  Data analysis project exploring personality types.
-
-- [**NLP**](https://github.com/atheendre130505/nlp)  
-  Natural language processing experiments in Python.
 
 ## 🛠️ Other Projects
 
@@ -73,7 +65,7 @@ Welcome to my GitHub! I'm an enthusiastic developer with a passion for AI, machi
 - [**ML Problem Sets**](https://github.com/atheendre130505/ml-prob_sets)  
 - [**Transaction System**](https://github.com/atheendre130505/transaction-system)  
 - [**Q-Learning Dinojump**](https://github.com/atheendre130505/q-learning_dinojump)  
-- [**Autocoder**](https://github.com/atheendre130505/autocoder)  
+ 
 
 ## 📫 Let's Connect
 
