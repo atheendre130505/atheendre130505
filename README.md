@@ -4,6 +4,12 @@ Welcome to my GitHub! I'm an enthusiastic developer with a passion for AI, machi
 
 ## 🚀 Featured Projects
 
+- [**Dueling Double DQN Dinojump**](https://github.com/atheendre130505/dueling_double_DQN_dinojump)  
+  Uses advanced RL techniques and personalized replay buffers.
+
+- [**Kaggle Introvert-Extrovert**](https://github.com/atheendre130505/Kaggle_introvert-extrovert)  
+  Implementing autogluon model, tried ensembling models (XGboost, Catboost, random forests, LIGHTGBM etc)
+
 - [**AI-Powered Loan Eligibility Engine**](https://github.com/atheendre130505/ai-loan-eligibility-engine)  
   A backend system that leverages AI to assess loan eligibility. (Python)
 
