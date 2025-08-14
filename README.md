@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Atheendre Ramesh
 
-Welcome to my GitHub! I'm an enthusiastic developer with a passion for AI, machine learning, robotics, and building practical solutions through code. Here you'll find a mix of personal projects, academic explorations, and open-source contributions, covering topics from neural networks to web applications.
+Welcome to my GitHub!!! I'm an enthusiastic developer with a passion for AI, machine learning, robotics, and building practical solutions through code. Here you'll find a mix of personal projects, academic explorations, and open-source contributions, covering topics from neural networks to web applications.
 
 ## 🚀 Featured Projects
 
