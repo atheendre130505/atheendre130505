@@ -40,7 +40,4 @@ Bangalore, India
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atheendre-ramesh-4aa90a1ab/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
----
 
-💼 **Open to Software Engineering Internships - Summer 2026**  
-🌟 Interested in: Payment Systems, Distributed Systems, ML Infrastructure, Full-Stack Development
