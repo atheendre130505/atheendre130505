@@ -10,6 +10,12 @@ I'm passionate about building scalable, production-ready systems that solve real
 - 🤖 **Autocoder** - Autonomous AI development system powered by Gemini 2.5 Pro & Qwen3-Coder
 - 🎮 **Deep RL Agent** - Advanced reinforcement learning with Dueling Double DQN achieving superhuman performance
 
+
+## Pull requests / merge requests
+
+- [apache/datafusion#18427](https://github.com/apache/datafusion/pull/18427)
+- [apache/kafka#20778](https://github.com/apache/kafka/pull/20778)
+
 ## 💻 Technical Skills
 
 **Languages:** Java, Python, JavaScript, TypeScript, SQL  
