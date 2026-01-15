@@ -32,9 +32,7 @@ I'm passionate about building scalable, production-ready systems that solve real
 - 🔧 Contributed to **CogVLM** (4K+ stars) - fixed critical edge case in bounding box parsing
 - 💼 Delivered **production applications** for real clients as freelance developer
 
-## 📊 GitHub Stats
 
-![Atheendre's GitHub stats](https://github-readme-stats.vercel.app/api?username=atheendre130505&show_icons=true&theme=radical)
 
 ## 🔀 Pull Requests (top 5)
 
