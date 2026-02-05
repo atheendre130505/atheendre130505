@@ -13,6 +13,7 @@ I'm passionate about building scalable, production-ready systems that solve real
 
 ## Pull requests / merge requests
 
+- [scikit-learn/scikit-learn#33197](https://github.com/scikit-learn/scikit-learn/pull/33197)
 - [apache/datafusion#18427](https://github.com/apache/datafusion/pull/18427)
 - [apache/kafka#20778](https://github.com/apache/kafka/pull/20778)
 - [chaoss/augur#3608](https://github.com/chaoss/augur/pull/3608)
