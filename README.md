@@ -34,17 +34,6 @@ I'm passionate about building scalable, production-ready systems that solve real
 - 💼 Delivered **production applications** for real clients as freelance developer
 
 
-
-## 🔀 Pull Requests (top 5)
-
-I added a short "Pull Requests" section showing 5 notable PRs I've authored across GitHub, ranked by repository prominence (stars/popularity). Links go directly to each PR.
-
-- Fix IndexError in grounding_parser.py for 2-coordinate bounding boxes — zai-org/CogVLM — https://github.com/zai-org/CogVLM/pull/551
-- Fix LabelEncoder set_output method availability — scikit-learn/scikit-learn — https://github.com/scikit-learn/scikit-learn/pull/31943
-- Fix incomplete Javadoc comments in storage module — apache/kafka — https://github.com/apache/kafka/pull/20778
-- [BUG] Replace deprecated batched_dot with pt.sum in KroneckerNormal — pymc-devs/pymc — https://github.com/pymc-devs/pymc/pull/7942
-- [BUG] Fix WindowSummarizer bfill truncation with multiindex data — sktime/sktime — https://github.com/sktime/sktime/pull/9025
-
 ---
 
 ## 🎓 Education
