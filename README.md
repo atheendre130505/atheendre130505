@@ -18,6 +18,12 @@ I'm passionate about building scalable, production-ready systems that solve real
 - [apache/kafka#20778](https://github.com/apache/kafka/pull/20778)
 - [chaoss/augur#3608](https://github.com/chaoss/augur/pull/3608)
 
+## Issues
+- [apache/beam#37575](https://github.com/apache/beam/issues/37575)
+- [scikit-learn/scikit-learn#33154](https://github.com/scikit-learn/scikit-learn/issues/33154)
+- [chaoss/augur#3606](https://github.com/chaoss/augur/issues/3606)
+- [apache/beam#37577](https://github.com/apache/beam/issues/37577)
+
 ## 💻 Technical Skills
 
 **Languages:** Java, Python, JavaScript, TypeScript, SQL  
