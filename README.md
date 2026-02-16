@@ -22,7 +22,6 @@ I'm passionate about building scalable, production-ready systems that solve real
 - [apache/beam#37575](https://github.com/apache/beam/issues/37575)
 - [apache/beam#37576](https://github.com/apache/beam/issues/37576)
 - [scikit-learn/scikit-learn#33154](https://github.com/scikit-learn/scikit-learn/issues/33154)
-- [scikit-learn/scikit-learn#33283](https://github.com/scikit-learn/scikit-learn/issues/33283)
 - [chaoss/augur#3606](https://github.com/chaoss/augur/issues/3606)
 - [apache/beam#37577](https://github.com/apache/beam/issues/37577)
 
