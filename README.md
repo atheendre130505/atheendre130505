@@ -1,15 +1,16 @@
 # Hi, I'm Atheendre Ramesh 👋
 
-**Computer Science Student @ Bangalore** | **Full-Stack Developer + ML Engineer** | **Building Production Systems**
+**ML Engineer · Computer Vision · Full-Stack Developer** | Computer Science @ RV University, Bangalore
 
-I'm passionate about building scalable, production-ready systems that solve real problems. Currently exploring payment infrastructure, distributed systems, and AI/ML applications.
+I build production-grade software and ML systems end to end.
 
 ## 🚀 What I'm Working On
 
-- 💳 **StripeFlow** - Enterprise payment processing platform with Java/Spring Boot backend, React/TypeScript frontend, and full DevOps infrastructure
-- 🤖 **Autocoder** - Autonomous AI development system powered by Gemini 2.5 Pro & Qwen3-Coder
-- 🎮 **Deep RL Agent** - Advanced reinforcement learning with Dueling Double DQN achieving superhuman performance
-
+- 🔭 **Led a computer-vision project for Intel at Wipro** (24 Aug – 24 Nov 2026), as ML Engineer / Architect Intern and project lead. A problem with no established reference implementation: dense clusters of tiny, near-identical objects in extremely high-resolution imagery, where standard approaches break down. I owned the architecture, experimentation and delivery, including large-scale label generation and an evaluation framework rigorous enough for the results to be trusted. *(Client work is confidential, so details stay high level. Happy to discuss the approach.)*
+- 🧠 **Research Intern at IIT Tirupati** (Prof. P.C. Deshmukh): memory-augmented Transformers and modern Hopfield networks for long-context NLP
+- 🤝 **Head of Operations at Robin Hood Army**: managing 10,000+ volunteers across Bangalore
+- 💳 **StripeFlow**: enterprise payment processing platform with Java/Spring Boot backend, React/TypeScript frontend, and full DevOps infrastructure
+- 🎮 **Deep RL agents**: PPO agents for Chrome Dino and ViZDoom, trained from pixels
 
 ## Pull requests / merge requests
 
@@ -27,29 +28,30 @@ I'm passionate about building scalable, production-ready systems that solve real
 
 ## 💻 Technical Skills
 
-**Languages:** Java, Python, JavaScript, TypeScript, SQL  
+**Computer Vision / ML:** PyTorch, TensorFlow, scikit-learn, XGBoost, Object Detection, Reinforcement Learning  
+**Languages:** Python, Java, JavaScript, TypeScript, SQL, C / C++  
 **Backend:** Spring Boot, Node.js, Flask, FastAPI  
 **Frontend:** React, Next.js, Tailwind CSS  
 **Cloud & DevOps:** AWS (Lambda, S3, RDS, ECS), Docker, Kubernetes, Terraform, GitHub Actions  
-**Databases:** PostgreSQL, MongoDB, Redis  
-**ML/AI:** TensorFlow, PyTorch, scikit-learn, XGBoost, Reinforcement Learning
+**Databases:** PostgreSQL, MongoDB, Redis
 
-## 🏆 Achievements
+## 🏆 Highlights
 
-- 🥇 **97.5% accuracy** in Kaggle personality classification competition (top 5%)
-- 🚀 Built **serverless architecture** processing 500+ API requests per minute
-- 🔧 Contributed to **CogVLM** (4K+ stars) - fixed critical edge case in bounding box parsing
-- 💼 Delivered **production applications** for real clients as freelance developer
-
+- 💼 **Project lead on an Intel computer-vision engagement** through Wipro
+- 🥇 **97.5% accuracy** in a Kaggle personality classification competition (top 5%)
+- 🚀 Built a **serverless architecture** processing 500+ API requests per minute
+- 🔧 Contributed to **CogVLM** (4K+ stars): fixed an edge case in bounding box parsing
+- 🌐 Merged contributions to **Apache Kafka, scikit-learn and Apache DataFusion**
 
 ---
 
 ## 🎓 Education
 
-**BSc (Hons) Computer Science** - Expected Graduation 2027  
-Bangalore, India
+**BSc (Hons) Computer Science** (expected 2027) · RV University, Bangalore · CGPA 8.3
 
 ## 🔗 Connect With Me
 
+🌐 [Portfolio](https://atheendre130505.github.io)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atheendre-ramesh-4aa90a1ab/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atheendreramesh@gmail.com)
