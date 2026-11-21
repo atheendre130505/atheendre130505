@@ -6,7 +6,7 @@ I build production-grade software and ML systems end to end.
 
 ## 🚀 What I'm Working On
 
-- 🔭 **Led a computer-vision project for Intel at Wipro** (24 Aug – 24 Nov 2026), as ML Engineer / Architect Intern and project lead. A problem with no established reference implementation: dense clusters of tiny, near-identical objects in extremely high-resolution imagery, where standard approaches break down. I owned the architecture, experimentation and delivery, including large-scale label generation and an evaluation framework rigorous enough for the results to be trusted. *(Client work is confidential, so details stay high level. Happy to discuss the approach.)*
+- 🔭 **Sole engineer on a computer-vision project for Intel at Wipro** (24 Aug – 24 Nov 2026), as ML Engineer / Architect Intern, working with one manager. A problem with no established reference implementation: dense clusters of tiny, near-identical objects in extremely high-resolution imagery, where standard approaches break down. I owned the architecture, experimentation and delivery, including large-scale label generation and an evaluation framework rigorous enough for the results to be trusted. *(Client work is confidential, so details stay high level. Happy to discuss the approach.)*
 - 🧠 **Research Intern at IIT Tirupati** (Prof. P.C. Deshmukh): memory-augmented Transformers and modern Hopfield networks for long-context NLP
 - 🤝 **Head of Operations at Robin Hood Army**: managing 10,000+ volunteers across Bangalore
 - 💳 **StripeFlow**: enterprise payment processing platform with Java/Spring Boot backend, React/TypeScript frontend, and full DevOps infrastructure
@@ -37,7 +37,7 @@ I build production-grade software and ML systems end to end.
 
 ## 🏆 Highlights
 
-- 💼 **Project lead on an Intel computer-vision engagement** through Wipro
+- 💼 **Sole engineer on an Intel computer-vision engagement** through Wipro
 - 🥇 **97.5% accuracy** in a Kaggle personality classification competition (top 5%)
 - 🚀 Built a **serverless architecture** processing 500+ API requests per minute
 - 🔧 Contributed to **CogVLM** (4K+ stars): fixed an edge case in bounding box parsing
