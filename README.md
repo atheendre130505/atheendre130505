@@ -7,7 +7,7 @@ I build production-grade software and ML systems end to end.
 ## 🚀 What I'm Working On
 
 - 🔭 **Sole engineer on a computer-vision project for Intel at Wipro** (24 Aug – 24 Nov 2026), as ML Engineer / Architect Intern, working with one manager. A problem with no established reference implementation: dense clusters of tiny, near-identical objects in extremely high-resolution imagery, where standard approaches break down. I owned the architecture, experimentation and delivery, including large-scale label generation and an evaluation framework rigorous enough for the results to be trusted. *(Client work is confidential, so details stay high level. Happy to discuss the approach.)*
-- 🧠 **Research Intern at IIT Tirupati** (Prof. P.C. Deshmukh): memory-augmented Transformers and modern Hopfield networks for long-context NLP
+- 🧠 **Research Intern at IIT Tirupati**: memory-augmented Transformers and modern Hopfield networks for long-context NLP
 - 🤝 **Previously Head of Operations at Robin Hood Army** (Mar 2025 – Nov 2026): managed 10,000+ volunteers across Bangalore
 - 💳 **StripeFlow**: enterprise payment processing platform with Java/Spring Boot backend, React/TypeScript frontend, and full DevOps infrastructure
 - 🎮 **Deep RL agents**: PPO agents for Chrome Dino and ViZDoom, trained from pixels
